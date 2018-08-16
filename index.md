@@ -7,5 +7,5 @@
 <img src = "https://ww4.sinaimg.cn/large/006qdOBMjw1f22ok6wg52j337k2eonpe.jpg"/>
 ## 下面有请<font color="red">宇宙超级无敌美少女</font>登场！！！
 <img src = "https://wx1.sinaimg.cn/large/005PWVnRly1fuc3ofgfizj30v915okdk.jpg"/>
-_爱好：吃！吃！吃！_
+_爱好：吃！吃！吃！_<img src = "https://wx3.sinaimg.cn/large/006ajVGQgy1fhb5tc8wzug309f052hdv.gif"/>
 
