@@ -1,5 +1,5 @@
 ## Where our love begin?
-[Image](https://img.zcool.cn/community/01335959c3882ea8012053f8c5a826.jpg@1280w_1l_2o_100sh.jpg）
+![Image](https://img.zcool.cn/community/01335959c3882ea8012053f8c5a826.jpg@1280w_1l_2o_100sh.jpg）
 You can use the [editor on GitHub](https://github.com/mafanfanfandi/gift/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
